@@ -23,5 +23,6 @@ namespace TP_Mod2
 
             this.label_output.Text = "Output: " + inputText;
         }
+
     }
 }
