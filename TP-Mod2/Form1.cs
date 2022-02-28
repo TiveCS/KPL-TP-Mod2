@@ -19,8 +19,10 @@ namespace TP_Mod2
 
         private void button_submit_Click(object sender, EventArgs e)
         {
+            // Mengambil teks yang telah diketik pada komponen TextBox
             string inputText = this.textBox_input.Text;
 
+            // Melakukan set teks pada label output menjadi "Halo %teks_input%"
             this.label_output.Text = "Halo " + inputText;
         }
 
