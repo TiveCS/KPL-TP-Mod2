@@ -21,7 +21,7 @@ namespace TP_Mod2
         {
             string inputText = this.textBox_input.Text;
 
-            this.label_output.Text = "Output: " + inputText;
+            this.label_output.Text = "Halo " + inputText;
         }
 
     }

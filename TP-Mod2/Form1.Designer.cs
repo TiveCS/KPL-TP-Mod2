@@ -51,7 +51,7 @@ namespace TP_Mod2
             this.label_output.Name = "label_output";
             this.label_output.Size = new System.Drawing.Size(59, 17);
             this.label_output.TabIndex = 1;
-            this.label_output.Text = "Output: ";
+            this.label_output.Text = " ";
             // 
             // textBox_input
             // 
